@@ -2,7 +2,7 @@
   "name": "bandwithrs",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://dausonhoang.github.io/bandwidthRSPage/",
+  "homepage": "https://dausonhoang.github.io/bandwidth-rs-page/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
