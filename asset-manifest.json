@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rsbandwidth/static/css/main.1a8a0596.css",
+    "main.js": "/rsbandwidth/static/js/main.f236d8a0.js",
+    "index.html": "/rsbandwidth/index.html",
+    "main.1a8a0596.css.map": "/rsbandwidth/static/css/main.1a8a0596.css.map",
+    "main.f236d8a0.js.map": "/rsbandwidth/static/js/main.f236d8a0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a8a0596.css",
+    "static/js/main.f236d8a0.js"
+  ]
+}
