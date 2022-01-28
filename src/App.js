@@ -53,7 +53,7 @@ function App() {
     <div className="App">
       <div className="d-flex px-3 py-3">
         <div style={{ minWidth: "300px" }} className="px-3">
-          <p>Record of Lowest-Bandwidth Repair Schemes for short-length Reed-Solomon codes</p>
+          <p>Records of Lowest-Bandwidth Repair Schemes for Short-Length Reed-Solomon Codes</p>
           <div className="d-flex w-100 justify-content-between mt-2">
             <label htmlFor="eval_point_selection">Evaluation points:</label>
             <select className='px-3' id="eval_point_selection" onChange={handleChangeEvalPoint}>
@@ -96,8 +96,8 @@ function App() {
           </div>
           <div>
               <ul>
-                <li>Feedback sent to <a href="mailto:sonhoangdau@rmit.edu.au">sonhoangdau@rmit.edu.au</a></li>
-                <li>Reference: X.Dinh et al, "Practical in repairing Reed-Solomon Codes" </li>
+                <li>Feedback sent to <a href="mailto:sonhoang.dau@rmit.edu.au">sonhoang.dau@rmit.edu.au</a></li>
+                <li>Reference: T. X. Dinh et al, "Practical Considerations in repairing Reed-Solomon Codes," submitted to ISIT'22 </li>
               </ul>
           </div>
         </div>
