@@ -97,7 +97,7 @@ function App() {
           <div>
               <ul>
                 <li>Feedback sent to <a href="mailto:sonhoang.dau@rmit.edu.au">sonhoang.dau@rmit.edu.au</a></li>
-                <li>Reference: T. X. Dinh et al, "Practical Considerations in repairing Reed-Solomon Codes," submitted to ISIT'22 </li>
+                <li>Reference: T. X. Dinh et al., "Practical Considerations in Repairing Reed-Solomon Codes," submitted to ISIT'22 </li>
               </ul>
           </div>
         </div>
@@ -106,7 +106,7 @@ function App() {
           style={{
             borderLeft: "1px solid black",
             width: "1200px",
-            height: "600px",
+            height: "1200px",
           }}
         >
           {fileUrl?.length > 0 && (
