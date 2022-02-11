@@ -106,7 +106,7 @@ function App() {
           style={{
             borderLeft: "1px solid black",
             width: "1200px",
-            height: "1200px",
+            height: "1000px",
           }}
         >
           {fileUrl?.length > 0 && (
