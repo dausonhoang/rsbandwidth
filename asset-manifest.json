@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/rsbandwidth/static/css/main.1a8a0596.css",
-    "main.js": "/rsbandwidth/static/js/main.6832c687.js",
+    "main.js": "/rsbandwidth/static/js/main.63f33b2a.js",
     "index.html": "/rsbandwidth/index.html",
     "main.1a8a0596.css.map": "/rsbandwidth/static/css/main.1a8a0596.css.map",
-    "main.6832c687.js.map": "/rsbandwidth/static/js/main.6832c687.js.map"
+    "main.63f33b2a.js.map": "/rsbandwidth/static/js/main.63f33b2a.js.map"
   },
   "entrypoints": [
     "static/css/main.1a8a0596.css",
-    "static/js/main.6832c687.js"
+    "static/js/main.63f33b2a.js"
   ]
 }
