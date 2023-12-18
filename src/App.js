@@ -97,7 +97,7 @@ function App() {
           <div>
               <ul>
                 <li>Feedback sent to <a href="mailto:sonhoang.dau@rmit.edu.au">sonhoang.dau@rmit.edu.au</a></li>
-                <li>Reference: T. X. Dinh et al., "Practical Considerations in Repairing Reed-Solomon Codes," submitted to ISIT'22 </li>
+                <li>Reference: T. X. Dinh et al., "Practical Considerations in Repairing Reed-Solomon Codes," IEEE International Symposium on Information Theory (ISIT), 2022, Finland </li>
               </ul>
           </div>
         </div>
